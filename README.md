@@ -99,7 +99,7 @@ I’m always exploring new ways to optimize code while solving real-world challe
 
   
 ![Hello there!](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW53aXo0OXlpM2lncXZuN3h6NGl0dzNqenFwamR3aG1keXR1cDk2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif)
-  <h1>Goodbye!👋</h1>
+  <h1>Keep coding !👋</h1>
 </div>
 
 
