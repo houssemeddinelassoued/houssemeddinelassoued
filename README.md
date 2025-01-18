@@ -89,7 +89,7 @@ I’m always exploring new ways to optimize code while solving real-world challe
 </div>
 
 ### 🚀 Highlighted Projects
-- [**Personal Bio**](https://github.com/houssemeddinelassoued/HoussemEddine-Lassoued): Personal Bio.
+- [**Personal Bio**](https://github.com/houssemeddinelassoued/Houssemeddinelassoued): Personal Biography.
 - [**How can I use ChatGPT in my research work**](https://github.com/houssemeddinelassoued/ResearchChatGPT): 50 use cases of ChatGPT for research work.
 
 
