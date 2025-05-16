@@ -7,7 +7,7 @@
 
 **I’m an IT Expert specializing in Software Development and a professional expert with expertise in**:  
 - **Java** for enterprise solutions.
-- **Flutter/Kotlin/iOS** for mobile development. 
+- **Android/Flutter/Kotlin/iOS** for mobile development. 
 - **Deep Learning** applied to AI solutions.
 
 ### Programming languages
