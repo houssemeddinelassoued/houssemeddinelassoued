@@ -1,4 +1,4 @@
-### Hi there, I am Houssem Eddine LASSOUED! 👋  ![Profile Views](https://komarev.com/ghpvc/?username=houssemeddinelassoued&color=blue&base=1200&abbreviated=false)
+### Hi there, I am Houssem Eddine LASSOUED! 👋 ![Visitors](https://img.shields.io/badge/Visitors-blue?style=flat)
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/houssemeddinelassoued/)
 [![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/HoussemE.Lassoued)
